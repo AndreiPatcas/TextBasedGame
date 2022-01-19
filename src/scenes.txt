@@ -1,0 +1,7 @@
+
+1
+room
+You are in your room now. you just got up from your bed. Close to your bed is a small bookshaft and a table.
+You see on the floor your favorite book and a key.
+bottle of water,apple,key
+drink water,eat apple, take the key,get out
